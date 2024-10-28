@@ -12,7 +12,7 @@ std::pair<int, int> find_position(std::vector<std::vector<int>>& mat)
 			}
 		}
 	}
-    return {-1, -1};
+	return {-1, -1};
 }
 
 int main()
